@@ -3,7 +3,7 @@
 ### Step 1: Clone the repo or download
 
 ```bash
-git clone https://github.com/sohelrana1304/cyber-note.git
+git clone https://github.com/JeevaJV/cybernote/cyber-note-main.git
 ```
 ### Step 2: cd into the cloned repo and run:
 ```bash
