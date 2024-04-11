@@ -9,7 +9,7 @@ This is a full-stack MERN application that allows users to create, read, update 
 ### Step 1: Clone the repo or download
 
 ```bash
-git clone https://github.com/sohelrana1304/cyber-note.git
+git clone https://github.com/JeevaJV/cybernote/cyber-note-main.git
 ```
 
 ### Step 2: cd into the cloned repo and run:
@@ -46,4 +46,4 @@ MONGODB_URI=YOUR MONGODB URI
 JWT_SECRET=YOUR SECRET KEY
 ```
 ## Author
-[**Author**](https://github.com/sohelrana1304)
+[**Author**](https://github.com/JeevaJV)
